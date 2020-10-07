@@ -1,0 +1,2 @@
+rootProject.name='myCalculator'
+include ':app'
